@@ -1,3 +1,30 @@
+body {
+  background-color: #999;
+}
 .header {
   padding: 40px;
+}
+.table-wrap {
+  padding: 10px;
+}
+.table {
+  text-align: left;
+  background-color: #fefefe;
+  border: 1px solid #333;
+}
+.data {
+  border-top: 1px solid #333;
+  min-width: 140px;
+}
+.data, th {
+  padding: 5px 15px 5px 0;
+}
+.input {
+  padding: 3px 0;
+  font-size: 14px;
+}
+.toolbar-btn {
+  padding: 5px 10px;
+  font-size: 16px;
+  color: #000;
 }
